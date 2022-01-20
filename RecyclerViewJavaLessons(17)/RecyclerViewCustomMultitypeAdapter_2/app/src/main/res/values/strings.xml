@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewCustomMultitypeAdapter</string>
+    <string name="pdp">PDP</string>
+    <string name="academy">ACADEMY</string>
+</resources>

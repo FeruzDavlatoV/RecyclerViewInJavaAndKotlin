@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewInsedeNestedScroll</string>
+    <string name="home_view">First View</string>
+    <string name="second_view">Second View</string>
+</resources>

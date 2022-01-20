@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewvInsideRecyclerView</string>
+    <string name="sub_list">Sub_List_Item</string>
+</resources>
